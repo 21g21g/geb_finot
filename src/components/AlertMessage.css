@@ -1,0 +1,24 @@
+.alert-message {
+    position: fixed;
+    top: 16px; 
+    right: 16px; 
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1000; 
+    transition: opacity 0.3s ease, transform 0.3s ease;
+  }
+  
+  .alert-error {
+    background-color: #f56565; 
+    color: white;
+  }
+  
+  .alert-success {
+    background-color: #48bb78; 
+    color: white;
+  }
+  
+  .alert-default {
+    background-color: #a0aec0; /* Gray color */
+  }
