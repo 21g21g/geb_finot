@@ -27,7 +27,7 @@ To set up the Country Search Application on your local machine, follow these ste
    ```
 
 Enter the name of a country in the search input field.
-Click the "Search" button or press Enter.
+Click the "Search" button.
 View Country Information:
 
 The application will display the country's details, including the flag, capital city, population, and languages spoken.
